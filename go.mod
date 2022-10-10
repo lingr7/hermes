@@ -1,4 +1,4 @@
-module github.com/lingr7
+module github.com/lingr7/hermes
 
 require (
 	github.com/Masterminds/semver v1.4.2 // indirect
