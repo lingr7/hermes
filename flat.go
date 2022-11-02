@@ -90,7 +90,7 @@ const (
     .email-masthead_name {
       font-size: 16px;
       font-weight: bold;
-      color: #2F3133;
+      color: #ffffff;
       text-decoration: none;
       text-shadow: 0 1px 0 white;
     }
