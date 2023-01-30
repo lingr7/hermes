@@ -473,6 +473,12 @@ const (
                           {{ end }}
                         {{ end }}
                       {{ end }}
+		      
+		    <p>
+                      Yours truly,
+                      <br />
+                      {{.Email.Body.Signature}},
+                    </p>
 
                     {{ if (eq .Email.Body.FreeMarkdown "") }}
                       {{ with .Email.Body.Actions }} 
