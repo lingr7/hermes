@@ -582,7 +582,7 @@ const (
     <p>{{ $line }}<p>
   {{ end }}
 {{ end }}
-<p>{{.Email.Body.Signature}},<br>{{.Hermes.Product.Name}} - {{.Hermes.Product.Link}}</p>
+
 
 <p>{{.Hermes.Product.Copyright}}</p>
 `
