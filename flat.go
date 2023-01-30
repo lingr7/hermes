@@ -477,7 +477,7 @@ const (
 		    <p>
                       Yours truly,
                       <br />
-                      {{.Email.Body.Signature}},
+                      {{.Email.Body.Signature}}
                     </p>
 
                     {{ if (eq .Email.Body.FreeMarkdown "") }}
